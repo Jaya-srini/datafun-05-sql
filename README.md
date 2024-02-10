@@ -6,7 +6,7 @@ Module 5
 2. Git Clone
     Clone github repository with 'https://github.com/Jaya-srini/datafun-05-sql.git' 
 
-3. Add .gitignore file
+3. Add .gitignore file and add .venv\, .vscode\, \__pycache__/
 
 4. Create virtual environment and activate 
     ```
@@ -27,7 +27,13 @@ Module 5
     python3 -m pip freeze > requirements.txt
    ```
 
-7. Record commands in README.md
-
 8. Git add, commit with message, push git
+    ```
+    git add .
+    git commit -m "Commit Message"
+    git push
+   ```
 
+## Data Used : https://github.com/Jaya-srini/datafun-05-sql/tree/main/data
+
+## SQL Queries : https://github.com/Jaya-srini/datafun-05-sql/tree/main/sql
