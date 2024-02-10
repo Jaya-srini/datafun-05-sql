@@ -1,0 +1,10 @@
+2024-02-09 19:05:21,246 - INFO - Program started
+2024-02-09 19:05:21,248 - INFO - Inserted Records
+2024-02-09 19:05:21,249 - INFO - Updated Records
+2024-02-09 19:05:21,250 - INFO - Deleted Records
+2024-02-09 19:05:21,251 - INFO - Executed Aggregation Query
+2024-02-09 19:05:21,251 - INFO - Executed Filter Query
+2024-02-09 19:05:21,251 - INFO - Executed Sorting Query
+2024-02-09 19:05:21,252 - INFO - Executed Group by Query
+2024-02-09 19:05:21,252 - INFO - Executed join Query
+2024-02-09 19:05:21,252 - INFO - All SQL operations completed successfully
